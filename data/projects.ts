@@ -143,11 +143,11 @@ export const projects: Project[] = [
       en: "Hexol is a professional corporate platform dedicated to showcasing the Hexol automotive oil brand in the Saudi market. The website features a customized Content Management System (CMS) for managing oil products, dynamic specifications, and an organized blog structure. Heavy emphasis was placed on performance tuning and advanced Search Engine Optimization (SEO) strategies to guarantee maximum visibility and ultra-fast loading times, complemented by an interactive client testimonials section.",
       ar: "منصة احترافية متكاملة لبراند زيوت السيارات 'هيكسول' الموجه للسوق السعودي. يضم الموقع نظاماً مخصصاً لإدارة المحتوى (CMS) يتيح التحكم الكامل في عرض أنواع الزيوت ومواصفاتها، وإدارة المقالات بشكل منظم، مع عرض تفاعلي لآراء وتقييمات العملاء. تم التركيز بشكل مكثف على تحسين أداء الموقع وسرعة استجابته (Performance Optimization) وتطبيق أحدث معايير سيو (SEO) لضمان تصدر محركات البحث وتقديم تجربة مستخدم سلسة.",
     },
-    image_url: "/hexiol/hexiol.png", // يمكنك تغيير المسار للصورة الأساسية للمشروع
+    image_url: "./hexiol/hexiol.png", // يمكنك تغيير المسار للصورة الأساسية للمشروع
     gallery: [
-      "/hexiol/hexiol.png",
-      "/hexiol/hexiol2.png",
-      "/hexiol/hexiol3.png",
+      "/hexiol/hexiol.PNG",
+      "/hexiol/hexiol2.PNG",
+      "/hexiol/hexiol3.PNG",
     ],
     tech_stack: [
       "React",
